@@ -2,7 +2,7 @@
 
 # Parcel template
 
-Ten projekt zostassł stworzony przy pomocy Parcel. W celu zapoznania się i
+Ten projekt został stworzony przy pomocy Parcel. W celu zapoznania się i
 skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
 
 ## Przygotowanie nowego projektu
